@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
-  reactCompiler: true,
+  // Turbopack is default in Next 16 — no config needed.
 };
 
 export default nextConfig;
